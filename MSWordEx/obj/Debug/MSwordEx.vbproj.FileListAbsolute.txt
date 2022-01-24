@@ -1,0 +1,14 @@
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\bin\Debug\MSwordEx2017.dll
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\bin\Debug\MSwordEx2017.pdb
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\bin\Debug\MSwordEx2017.xml
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx.vbprojAssemblyReference.cache
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx.Frm_WaitThePrinterToReceiveTheFile.resources
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx.ProgressBarEx.resources
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx.Resources.resources
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx.PrintingProgressDialog.resources
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx.vbproj.GenerateResource.cache
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx.vbproj.CoreCompileInputs.cache
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx2017.dll
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx2017.xml
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx2017.pdb
+C:\Users\Alwafi220\Desktop\MS_Word_Print_Test\MSWordEx\obj\Debug\MSwordEx.vbproj.ResolveComReference.cache
